@@ -1,0 +1,14 @@
+a) T (n) = 3T (n/2) + n
+ANS : T (n) = Θ(nlog23)
+
+b) T (n) = 64T (n/8) − n^2(log n)
+ANS : O( n2log 1/n)
+
+c) T (n) = 2nT (n/2) + n^n
+ANS : NA (a is not a constant)
+
+d) T (n) = 3T (n/3) + n/2
+ANS:  Θ(n log n)
+
+e) .T (n) = 7T (n/3) + n^2
+ANS: T (n) = Θ(n2 )
